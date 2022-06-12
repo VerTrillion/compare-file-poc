@@ -1,0 +1,6 @@
+same1|asd|aa|ddasd
+same2|asd|aa|ddasd
+diff1|rightA1|rightB1|sameVal
+diff2|rightA2|sameVal|rightC2
+onlyRight1|A1|B1|C1
+onlyRight2|A2|B2|C2
