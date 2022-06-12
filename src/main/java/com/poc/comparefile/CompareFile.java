@@ -149,7 +149,7 @@ public class CompareFile {
             if (leftValList.length == rightValList.length) {
                 for (int i = 0; i < leftValList.length; i++) {
                     String leftVal =  leftValList[i];
-                    String rightVal =  leftValList[i];
+                    String rightVal =  rightValList[i];
 
                     if (!leftVal.equals(rightVal)) {
                         String fieldName = CompareField.FIELD_NAME[i];
