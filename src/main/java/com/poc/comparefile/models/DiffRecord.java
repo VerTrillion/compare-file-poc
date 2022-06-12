@@ -4,6 +4,6 @@ import lombok.Data;
 
 @Data
 public class DiffRecord {
-    private Record leftRecord;
-    private Record rightRecord;
+    private String leftRecord;
+    private String rightRecord;
 }
